@@ -1,0 +1,6 @@
+tracker\ejb\TrackerBean.class
+tracker\web\Tracker.class
+com\mycompany\mod7_kel14\resources\JakartaEE10Resource.class
+tracker\ejb\addToBelowAverageList.class
+tracker\ejb\TrackerBeanLocal.class
+com\mycompany\mod7_kel14\JakartaRestConfiguration.class
